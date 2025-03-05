@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PhoenixtBlaze
 - 👀 I’m interested in Deep Learning/ Machine Learning and Gaming!
-- 
+- 🖥️ I stream on Twitch quiet a bit
+- ©️ Currently Developing a Text to Speech Application for Streamers
 
 <!---
 PhoenixtBlaze/PhoenixtBlaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
