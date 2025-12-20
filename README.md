@@ -1,6 +1,6 @@
 Hi, I’m Phoenix Blaze.
 I’m interested and a little learned in Deep Learning/ Machine Learning and programming of all sorts.
-©️ Currently Developing a lot of things
+©️ Currently Developing a lot of things. 
 Full Time Developer of SaberSurgeon.
 
 <!---
