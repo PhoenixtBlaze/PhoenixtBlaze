@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PhoenixtBlaze
-- 👀 I’m interested in Deep Learning/ Machine Learning and Gaming!
-- 🖥️ I stream on Twitch quiet a bit
-- ©️ Currently Developing a lot of things
+Hi, I’m Phoenix Blaze.
+I’m interested and a little learned in Deep Learning/ Machine Learning and programming of all sorts.
+©️ Currently Developing a lot of things
+Full Time Developer of SaberSurgeon.
 
 <!---
 PhoenixtBlaze/PhoenixtBlaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
